@@ -1,3 +1,4 @@
-# My Awesome Book
+# Introduction
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This book will \(obviously\) be about developing for the Gameboy Advance using Rust.  It will start with me documenting my current setup, then will likely expand from there.
+
