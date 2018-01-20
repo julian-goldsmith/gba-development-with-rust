@@ -9,5 +9,7 @@
 * [5. Interrupts](interrupts.md)
 * [6. Timing](timing.md)
 * [Memory Map](memory-map.md)
+* [BIOS](bios.md)
+* [Sound](sound.md)
 * [Notes](notes.md)
 
