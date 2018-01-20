@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 * [1. Environment](chapter1.md)
-* [2. Tiled Backgrounds](zxc.md)
+* [2. Tiled Backgrounds](tiled-backgrounds.md)
+* [3. Sprites](sprites.md)
+* [4. DMA](dma.md)
+* [5. Interrupts](interrupts.md)
+* [6. Timing](timing.md)
 * [Notes](notes.md)
 
