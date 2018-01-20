@@ -11,5 +11,6 @@
 * [Memory Map](memory-map.md)
 * [BIOS](bios.md)
 * [Sound](sound.md)
+* [Putting It All Together](putting-it-all-together.md)
 * [Notes](notes.md)
 
