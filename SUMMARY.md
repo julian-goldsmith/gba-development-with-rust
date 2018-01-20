@@ -12,5 +12,7 @@
 * [BIOS](bios.md)
 * [Sound](sound.md)
 * [Putting It All Together](putting-it-all-together.md)
+* [Parallax Backgrounds](parallax-backgrounds.md)
+* [Affine Transformations](affine-transformations.md)
 * [Notes](notes.md)
 
